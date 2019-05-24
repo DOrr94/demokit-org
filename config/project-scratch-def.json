@@ -1,0 +1,21 @@
+{
+    "orgName": "DemoKit Org",
+    "country": "US",
+    "edition": "Developer",
+    "description": "DemoKit by Appiphony.",
+    "features": [
+      "Communities",
+      "ContactsToMultipleAccounts",
+      "PersonAccounts"
+  ],
+    "orgPreferences": {
+      "enabled": [
+        "S1DesktopEnabled",
+        "ChatterEnabled",
+        "NetworksEnabled"      
+      ]
+    }
+  }
+
+
+  
