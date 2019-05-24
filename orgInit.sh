@@ -11,7 +11,7 @@ sfdx force:org:create -f config/project-scratch-def.json -a ADK --setdefaultuser
 
 #sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
 
-sfdx force:source:push 
+#sfdx force:source:push 
 
 #sfdx assign permission sets
 
