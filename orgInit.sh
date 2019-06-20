@@ -5,6 +5,8 @@ sfdx force:org:create -f config/project-scratch-def.json -a ADK --setdefaultuser
 #add pckg IDs to Idnum
 sfdx force:package:install --package 04t1U000006Y7zX -w 20 
 
+y
+
 #sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
 
 #sfdx force:mdapi:deploy --deploydir mdapi-source/data-config
